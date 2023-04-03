@@ -1,1 +1,3 @@
-# Restaurant_Management_System
+Restaurant Management System
+
+~12th Computer Science Final Project using C++
